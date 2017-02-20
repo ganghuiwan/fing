@@ -1,4 +1,4 @@
-# GORM
+# FING
 
 Detection of equipment inside the LAN.
 
@@ -10,7 +10,3 @@ Detection of equipment inside the LAN.
 ## Getting Started
 
 * make & ./bin/main
-
-## License
-
-Released under the [MIT License](https://github.com/jinzhu/gorm/blob/master/License).
